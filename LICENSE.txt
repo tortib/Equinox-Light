@@ -1,4 +1,4 @@
-Copyright (c) 2013-2015, April King, Alex Sørlie Glomsaas, Tobias Pollmann
+Copyright (c) 2013-2016, April King, Alex Sørlie Glomsaas, Tobias Pollmann, Rosolino Marchiafava
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
